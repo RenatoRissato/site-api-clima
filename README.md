@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação web que consome a API do [OpenWeatherMap](https://openweathermap.org/) para exibir informações climáticas em tempo real de qualquer cidade do mundo.
 
-![Preview do App](./assets/weather-preview.png)
+![Preview do App](./Images/1.png)
 
 ---
 
