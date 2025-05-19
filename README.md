@@ -65,7 +65,7 @@ Durante o desenvolvimento deste projeto, aprendi e pratiquei:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/weather-app.git
+git clone https://github.com/seu-usuario/site-api-clima.git
 ```
 
 Abra o arquivo `index.html` em um navegador.
