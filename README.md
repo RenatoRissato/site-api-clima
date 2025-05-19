@@ -60,9 +60,19 @@ Durante o desenvolvimento deste projeto, aprendi e pratiquei:
 - Adicionar previsão para os próximos dias
 - Melhorar acessibilidade (leitores de tela, contraste etc.)
 
-## 📦 Como usar
+## 📌 Como Executar Localmente
 
 1. Clone o repositório:
 
 ```bash
 git clone https://github.com/seu-usuario/weather-app.git
+```
+
+Abra o arquivo `index.html` em um navegador.
+
+## 📜 Licença
+Este projeto é de código aberto e está disponível sob a licença MIT.
+
+---
+
+Feito com ❤️ por [Renato Rissato](https://github.com/RenatoRissato) 🚀
